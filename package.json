@@ -3,5 +3,10 @@
   "description": "Escape regular expression special characters",
   "version": "0.0.1",
   "keywords": ["escape", "regexp", "utility"],
-  "dependencies": {}
+  "dependencies": {},
+  "component": {
+    "scripts": {
+      "escape-regexp": "index.js"
+    }
+  }
 }
