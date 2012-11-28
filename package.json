@@ -6,7 +6,7 @@
   "dependencies": {},
   "component": {
     "scripts": {
-      "escape-regexp": "index.js"
+      "escape-regexp/index.js": "index.js"
     }
   }
 }
