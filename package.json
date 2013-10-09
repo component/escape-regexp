@@ -2,11 +2,19 @@
   "name": "escape-regexp-component",
   "description": "Escape regular expression special characters",
   "version": "1.0.2",
-  "keywords": ["escape", "regexp", "utility"],
+  "keywords": [
+    "escape",
+    "regexp",
+    "utility"
+  ],
   "dependencies": {},
   "component": {
     "scripts": {
       "escape-regexp/index.js": "index.js"
     }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/component/escape-regexp.git"
   }
 }
